@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/my-LinkedIn-blue)](https://www.linkedin.com/in/bubba-li-562862b3/) 
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/471840?color=orange&label=StackOverFlow)](https://stackoverflow.com/users/9479933/zexi-li)
-[![Blog]()](https://www.jianshu.com/u/70a909eb73ac) 
