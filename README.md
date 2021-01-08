@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on ...
-An open-source developer and passionate technical & business leader.
 
 [![LinkedIn](https://img.shields.io/badge/my-LinkedIn-blue)](https://www.linkedin.com/in/bubba-li-562862b3/) 
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/471840?color=orange&label=StackOverFlow)]()
