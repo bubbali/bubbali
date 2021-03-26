@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 🔭 Stay hungry, Stay foolish.
 
 [![LinkedIn](https://img.shields.io/badge/my-LinkedIn-blue)](https://www.linkedin.com/in/bubba-li-562862b3/)
+[![Trailhead](https://trailblazer.me/resource/1572998571000/tds/assets/images/dotme.svg)](https://trailblazer.me/id/bubbali)
