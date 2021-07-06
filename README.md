@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 Stay hungry, Stay foolish.
 
-[![LinkedIn](https://img.shields.io/badge/my-LinkedIn-blue)](https://www.linkedin.com/in/bubba-li-562862b3/)
+[![LinkedIn](https://img.shields.io/badge/my-LinkedIn-blue)](https://www.linkedin.com/in/bubba-li)
 
 [![Trailhead](https://trailblazer.me/resource/1616178793000/assets/assets/images/profile/trailblazer-me.svg)](https://trailblazer.me/id/bubbali)
+
+[!StackOverflow](https://stackoverflow.com/users/9479933/bubba-li)
